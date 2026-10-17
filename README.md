@@ -283,17 +283,9 @@ Además: generar una nueva `APP_KEY`, crear el usuario administrador real (sin u
 - Integración con APIs externas (proveedores, facturación).
 - Escalabilidad: caché, colas y soporte para varios depósitos.
 
-### Comentarios y sugerencias recibidos en la demostración
 
-_Completar después de la presentación ante el grupo e instructor._
 
--
--
--
-
-## Autor
-
-- **Nombre:** _completar_
+- **Nombre:** Gabriela Gamarra
 - **Curso:** Full Stack, Grupo IDT
 - **Año:** 2026<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
